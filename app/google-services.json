@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "63455354362",
+    "project_id": "e-commerce-application-2775c",
+    "storage_bucket": "e-commerce-application-2775c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63455354362:android:86fec54fd34f8a7e99d843",
+        "android_client_info": {
+          "package_name": "com.gayatri.e_commerce_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63455354362-ugrnmeo7vv9silg84t4q0eu15d9hdhb7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gayatri.e_commerce_application",
+            "certificate_hash": "c7461cdb68ba1cadef5e9ef2865831a1a0735737"
+          }
+        },
+        {
+          "client_id": "63455354362-9pvt0eqi28u3c074o856ohbmmpit3fu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCji9OdzhzpEuvPzU8VrnoFhHZ4hH4eMuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63455354362-9pvt0eqi28u3c074o856ohbmmpit3fu3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
